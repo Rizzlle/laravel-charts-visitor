@@ -1,0 +1,11 @@
+.box-chart {
+    background-color: white;
+    padding: 2em;
+    border-radius: 20px;
+}
+
+.box-chart .title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 30px;
+}
